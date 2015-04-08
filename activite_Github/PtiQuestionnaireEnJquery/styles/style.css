@@ -1,0 +1,46 @@
+body
+{
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+	padding-bottom: 20px;
+}
+
+
+.question
+{
+	border:1px solid black;
+	margin:auto;
+	margin-top: 20px;
+	width: 800px;
+	height: 250px;
+	overflow: scroll;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #ecf0f1;
+}
+
+
+
+#imga1, #imgb1, #imga2, #imgb2, #imga3, #imgb3
+{
+	display: none;
+	float: right;
+	position: relative;
+	bottom: 100px;
+}
+
+.reponse
+{
+	display: none;
+}
+
+#img1, #img2, #img3
+{
+	float: right;
+	position: relative;
+	bottom: 100px;
+}
+
+
+
+
+
